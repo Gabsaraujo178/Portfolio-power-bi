@@ -1,4 +1,4 @@
-# 🚚 Dashboard – Eficiência da Rota
+# 🚚 Dashboard – Eficiência Operacional
 
 ## 🎯 Objetivo
 Dashboard desenvolvido em Power BI para acompanhamento da eficiência operacional, com foco no indicador de Movimentação Manual na Rota dos Técnicos, permitindo análise de desempenho e evolução mensal.
