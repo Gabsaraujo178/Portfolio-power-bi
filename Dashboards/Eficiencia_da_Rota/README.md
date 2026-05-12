@@ -1,8 +1,9 @@
 
-# 🚚 Dashboard – Eficiência da Rota
+# 🚚 Dashboard – Eficiência Operacional
+
 
 ## 🎯 Objetivo
-Dashboard desenvolvido em Power BI para acompanhamento da eficiência operacional, com foco no indicador de Movimentação EPO, permitindo análise de desempenho e evolução mensal.
+Dashboard desenvolvido em Power BI para acompanhamento da eficiência operacional, com foco no indicador de Movimentação Manual na rota dos técnicos, permitindo a análise do desempenho da ferramenta de alocação e da evolução mensal dos indicadores.
 
 ## ❓ Perguntas que o dashboard responde
 - A operação está dentro da meta?
@@ -11,9 +12,9 @@ Dashboard desenvolvido em Power BI para acompanhamento da eficiência operaciona
 - Onde priorizar ações corretivas?
 
 ## 📊 Principais indicadores
-- Mov EPO (%)
-- Evolução do Mov EPO (pontos percentuais)
-- Mov EPO antes das 9
+- Movimentação Manual (%)
+- Evolução Movimentação Manual (pontos percentuais)
+- Movimentação Manual antes das 9h
 - Parceiras dentro e fora da meta
 
 ## 🧠 Destaques técnicos
@@ -46,4 +47,4 @@ Análise detalhada das parceiras ofensoras, apoiando a priorização de ações 
 
 Análise da evolução dos indicadores ao longo do tempo, permitindo acompanhamento estratégico e identificação de tendências.
 
-> **Observação:** os dados apresentados são fictícios e utilizados exclusivamente para fins demonstrativos de modelagem, análise e visualização de indicadores operacionais em Power BI.
+> **Observação:** este é um projeto real, desenvolvido no contexto das atividades do dia a dia. Para fins de compartilhamento e portfólio, os dados apresentados foram anonimizados e/ou substituídos por dados fictícios, preservando a lógica de negócio, a modelagem e as análises, sem expor informações sensíveis ou corporativas.
