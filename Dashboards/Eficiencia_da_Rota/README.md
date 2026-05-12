@@ -23,6 +23,7 @@ Dashboard desenvolvido em Power BI para acompanhamento da eficiência operaciona
 - Título dinâmico por filtros
 - Layout preparado para print e e-mail
 
+
 ## 🖼️ Visual do Dashboard
 
 ### 📊 Visão Executiva – Indicadores Consolidados
@@ -44,5 +45,4 @@ Análise detalhada das parceiras ofensoras, apoiando a priorização de ações 
 
 Análise da evolução dos indicadores ao longo do tempo, permitindo acompanhamento estratégico e identificação de tendências.
 
-
-> Observação: os dados apresentados são fictícios e utilizados exclusivamente para fins demonstrativos de modelagem, análise e visualização de indicadores operacionais em Power BI.
+> **Observação:** os dados apresentados são fictícios e utilizados exclusivamente para fins demonstrativos de modelagem, análise e visualização de indicadores operacionais em Power BI.
