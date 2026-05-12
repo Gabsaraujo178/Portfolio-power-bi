@@ -24,4 +24,25 @@ Dashboard desenvolvido em Power BI para acompanhamento da eficiência operaciona
 - Layout preparado para print e e-mail
 
 ## 🖼️ Visual do dashboard
-(Imagens serão adicionadas)
+
+### 📊 Visão Executiva – Indicadores Consolidados
+![Visão Executiva](visao-executiva.png)
+
+Leitura executiva do desempenho operacional, com foco nos principais KPIs, status da meta e evolução mensal.
+
+---
+
+### 🗺️ Visão Analítica – Detalhamento por Parceiras
+![Visão Analítica – Parceiras](visao-analitica-parceiras.png)
+
+Análise detalhada das parceiras ofensores, apoiando a priorização de ações corretivas.
+
+---
+
+### 📈 Visão Estratégica – Evolução Geral
+![Visão Estratégica – Evolução](visao-estrategica-evolucao.png)
+
+Visão consolidada da tendência operacional, destacando melhora, piora e estabilidade ao longo do período analisado.
+
+
+> Observação: os dados apresentados são fictícios e utilizados exclusivamente para fins demonstrativos de modelagem, análise e visualização de indicadores operacionais em Power BI.
