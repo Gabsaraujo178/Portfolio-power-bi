@@ -34,9 +34,10 @@ Leitura executiva do desempenho operacional, com foco nos principais KPIs, statu
 ---
 
 ### 🔎 Visão Analítica – Detalhamento por Parceiras
-![Visão Analítica – Detalhamento por Parceiras](images/visao-analitica-parcerias.png)
+images/visao-analitica-parceiras.png
 
 Análise detalhada das parceiras ofensoras, apoiando a priorização de ações corretivas.
+
 
 ---
 
