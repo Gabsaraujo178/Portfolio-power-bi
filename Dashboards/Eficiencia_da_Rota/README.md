@@ -22,7 +22,7 @@ Dashboard desenvolvido em Power BI para acompanhamento da eficiência operaciona
 - Medidas DAX com leitura executiva
 - Formatação condicional com semáforo
 - Título dinâmico por filtros
-- Layout preparado para print e e-mail
+- Layout preparado para print e e-mail.  
 
 
 ## 🖼️ Visual do Dashboard
